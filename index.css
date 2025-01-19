@@ -1,0 +1,13 @@
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.cf-bg-title {
+background-color: goldenrod;
+opacity: 70%;
+}
+
+.cf-border-color{
+  border: 3px solid goldenrod;  
+}
+
